@@ -2,7 +2,7 @@
 
 Welcome to **Derezzed**, a 3-day terminal-powered crash course in Linux, Git, and Python — designed to teach new developers the core skills they need while customizing their own slice of The Grid.
 
-Whether you're just booting up for the first time or learning to script like a program warrior, **Derezzed** is your entry point.
+Whether you're just booting up for the first time or learning to script like a program warrior, **Derezzed** is a good entry point.
 
 ---
 
